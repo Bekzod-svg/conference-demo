@@ -13,6 +13,12 @@ A Spring Boot application designed for managing conference sessions and speakers
 - mvn clean install
 - mvn spring-boot:run
 
+## Development Environment
+- **Java**: JDK 21
+- **Database**: PostgreSQL 16.01
+- **Build Tool**: Maven 3.6
+- **IDE**: IntelliJ IDEA
+
 ## API Endpoints
 - /api/v1/speakers
 - /api/v1/sessions
