@@ -8,7 +8,7 @@ A Spring Boot application designed for managing conference sessions and speakers
 - Session management (CRUD operations)
 
 ## Getting Started
-- git clone
+- git clone https://github.com/Bekzod-svg/PersonAccessService
 - cd conference-demo
 - mvn clean install
 - mvn spring-boot:run
